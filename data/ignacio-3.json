@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "ignacio",
+  "address": "0xa166faff77a6b23afb23aaaf5f685f9c27896bd2",
+  "risk": "3",
+  "title": "CALL() SHOULD BE USED INSTEAD OF TRANSFER() ON AN ADDRESS PAYABLE",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/3"
+}
