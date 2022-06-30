@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "0xNineDec",
+  "address": "0x764312ef291900ef32be90dd3eb5a1bfa6788e84",
+  "risk": "3",
+  "title": "UNCAPPED AMOUNT OF DIFFERENT `Order.ERC20Asset` MAY PREVENT ORDERS FROM BEING EXECUTED AND WITHDRAWN",
+  "issueId": 33,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/33"
+}
