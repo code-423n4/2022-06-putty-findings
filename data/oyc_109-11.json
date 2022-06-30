@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "oyc_109",
+  "address": "0x18c18803a9eb6e032f50e97e6637ca8f811cc118",
+  "risk": "2",
+  "title": "protection from sending ETH",
+  "issueId": 11,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/11"
+}
