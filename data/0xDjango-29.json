@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "0xDjango",
+  "address": "0x886241e011a6c148bdd96b097eb27962f8a1c5f0",
+  "risk": "2",
+  "title": "Contract can make taker spend unbounded gas if baseAsset is ERC777",
+  "issueId": 29,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/29"
+}
