@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "Treasure-Seeker",
+  "address": "0xdc8eb8d2d1babd956136b57b0b9f49b433c019e3",
+  "risk": "2",
+  "title": "Protocol does not make any fees on unexercised options",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/19"
+}
