@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "0xDjango",
+  "address": "0x886241e011a6c148bdd96b097eb27962f8a1c5f0",
+  "risk": "2",
+  "title": "fillOrder() can be DoSed with lack of token approvals",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/30"
+}
