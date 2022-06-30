@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "Treasure-Seeker",
+  "address": "0xdc8eb8d2d1babd956136b57b0b9f49b433c019e3",
+  "risk": "3",
+  "title": "Contract non-existence not checked before ERC 20 and ERC 721 transfers - can cause loss of funds due to all transfers succeeding for those contracts",
+  "issueId": 20,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/20"
+}
