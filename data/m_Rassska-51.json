@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "m_Rassska",
+  "address": "0x94888e209a5b258ddd2e9621c614499fd3f0c195",
+  "risk": "2",
+  "title": "Unchecked .transfer() return value ",
+  "issueId": 51,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/51"
+}
