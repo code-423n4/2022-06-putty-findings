@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "0xKitsune",
+  "address": "0x08f613db560a38c330414062e1aac22e5f80876f",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 59,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/59"
+}
