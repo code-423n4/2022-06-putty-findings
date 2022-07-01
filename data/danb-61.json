@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "danb",
+  "address": "0x5adffa8a38adc0810c1d714624f8ce52a3a27961",
+  "risk": "2",
+  "title": "no protection from sending eth accidently",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/61"
+}
