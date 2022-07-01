@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "dirk_y",
+  "address": "0x957342febe16d72ce462ffc649bfc6faf96e2da3",
+  "risk": "2",
+  "title": "Protocol fee can be changed after filling an order",
+  "issueId": 76,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/76"
+}
