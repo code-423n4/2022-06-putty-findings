@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "kirk-baird",
+  "address": "0xc07ab0222713175389fd105bb85fa82d8510d13e",
+  "risk": "2",
+  "title": "Overlap Between `ERC721.transferFrom()` and `ERC20.transferFrom()` Allows `order.erc20Assets` or `order.baseAsset` To Be ERC721 Rather Than ERC20",
+  "issueId": 52,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/52"
+}
