@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "PwnedNoMore",
+  "address": "0xe03a2766325d914898cdA00d4EF927A305786Aa7",
+  "risk": "2",
+  "title": "[PNM-001] `short call` order with `order.floorTokens` non-empty will freeze users' funds",
+  "issueId": 77,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/77"
+}
