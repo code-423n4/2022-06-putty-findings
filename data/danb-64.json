@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "danb",
+  "address": "0x5adffa8a38adc0810c1d714624f8ce52a3a27961",
+  "risk": "3",
+  "title": "Some scenarios don't require paying fees",
+  "issueId": 64,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/64"
+}
