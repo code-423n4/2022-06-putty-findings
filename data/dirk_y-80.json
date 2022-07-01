@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "dirk_y",
+  "address": "0x957342febe16d72ce462ffc649bfc6faf96e2da3",
+  "risk": "3",
+  "title": "Users calling `acceptCounterOffer` lose funds via protocol fee and in gas costs",
+  "issueId": 80,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/80"
+}
