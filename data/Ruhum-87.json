@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "Not blocking fee-on-transfer tokens entirely can result in a loss of funds",
+  "issueId": 87,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/87"
+}
