@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "shog00n",
+  "address": "0xad7f7f0b2863f1a2d2bfec6bfd74063901f3a237",
+  "risk": "3",
+  "title": "Multiple orders compared in the loop with msg.value leads to loss of funds or transaction failures",
+  "issueId": 101,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/101"
+}
