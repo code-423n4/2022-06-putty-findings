@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "hake",
+  "address": "0x14ca9669a2d8e353560b85474575c5ffde245220",
+  "risk": "2",
+  "title": "`batchFillOrder.fillOrder()` `WETH.deposit()` wont work if  user uses native ETH instead of WETH to pay for more than one order",
+  "issueId": 123,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/123"
+}
