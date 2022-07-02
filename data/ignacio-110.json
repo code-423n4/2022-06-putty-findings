@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "ignacio",
+  "address": "0xa166faff77a6b23afb23aaaf5f685f9c27896bd2",
+  "risk": "2",
+  "title": "Miners can influence the value of block.timestamp to perform Maximal Extractable Value (MEV) attacks.",
+  "issueId": 110,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/110"
+}
