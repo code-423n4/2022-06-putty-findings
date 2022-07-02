@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "codexploder",
+  "address": "0x4f9c70c7f0480ffedefd32565fb05efd23d53726",
+  "risk": "2",
+  "title": "Order duration can be set to 0 by Malicious maker",
+  "issueId": 107,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/107"
+}
