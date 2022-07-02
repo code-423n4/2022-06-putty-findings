@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "itsmeSTYJ",
+  "address": "0xbca294543b46ff11cfafbcf67434bea23c21404b",
+  "risk": "2",
+  "title": "batchFillOrder does not handle ETH premiums properly",
+  "issueId": 85,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/85"
+}
