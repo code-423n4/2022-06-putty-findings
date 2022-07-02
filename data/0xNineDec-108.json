@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "0xNineDec",
+  "address": "0x764312ef291900ef32be90dd3eb5a1bfa6788e84",
+  "risk": "3",
+  "title": "FAILED ORDER FULFILLMENTS ARE OPEN TO REPLAY ATTACKS",
+  "issueId": 108,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/108"
+}
