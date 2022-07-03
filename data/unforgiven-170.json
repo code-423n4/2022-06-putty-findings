@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "It's possible to Use all PuttyV2 ERC20 and ERC721 token balances as free flash-loan by reentrancy in fillOrder() when filling specially crafted order (calling exercise() before fillOrder() collatral transfer)",
+  "issueId": 170,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/170"
+}
