@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "0x52",
+  "address": "0x522dffc539c264a8f7e0b91102e899b33f4dabc3",
+  "risk": "2",
+  "title": "Long whitelist could cause out of gas error",
+  "issueId": 137,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/137"
+}
