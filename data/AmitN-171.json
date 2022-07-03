@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "AmitN",
+  "address": "0xe629013195bf847de6333929af0833ad5f2855d9",
+  "risk": "2",
+  "title": "validate that msg.value is 0 when it should be",
+  "issueId": 171,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/171"
+}
