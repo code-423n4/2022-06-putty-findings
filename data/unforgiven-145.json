@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "Fund lose because of contract logic don't consider deflationary tokens when transferring funds and there is no whitelist to validate supported tokens",
+  "issueId": 145,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/145"
+}
