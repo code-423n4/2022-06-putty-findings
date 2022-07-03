@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "The code don't use nonce to identify orders, instead it uses order hash which is not best practice and could cause some issues like: duplicate nonce for different orders, can't quickly identify cancelled orders without order's all info, can't cancel multiple orders, can't cancel order without knowing order's all parameters",
+  "issueId": 161,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/161"
+}
