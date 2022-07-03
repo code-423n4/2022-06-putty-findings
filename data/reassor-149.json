@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "reassor",
+  "address": "0xd822554abe37b52e34d0c599ec828dc8c46721ff",
+  "risk": "2",
+  "title": "Emitting cancel event for filled orders",
+  "issueId": 149,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/149"
+}
