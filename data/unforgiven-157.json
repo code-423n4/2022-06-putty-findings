@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "In fillOrder() code uses mint() function instead of safeMint() which can cause tokens to be lost if the destination contract couldn't handle ERC721 tokens",
+  "issueId": 157,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/157"
+}
