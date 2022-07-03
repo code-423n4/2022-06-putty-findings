@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "ACai",
+  "address": "0xa8881ede6ae1404e62f20bb4aa89e5b1a7e1efd8",
+  "risk": "3",
+  "title": "The `fillOrder` function has potential reentrancy vulnerability. ",
+  "issueId": 141,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/141"
+}
