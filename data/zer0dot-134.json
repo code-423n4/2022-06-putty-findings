@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "zer0dot",
+  "address": "0xF4F56fA0D045ae0e6Ba8f82e2C32887FE0B152Ea",
+  "risk": "2",
+  "title": "Order Cancellation Can be Frontrun",
+  "issueId": 134,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/134"
+}
