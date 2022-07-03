@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "0x52",
+  "address": "0x522dffc539c264a8f7e0b91102e899b33f4dabc3",
+  "risk": "2",
+  "title": "Fees are taken on unexercised put options and not taken on exercised put options",
+  "issueId": 139,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/139"
+}
