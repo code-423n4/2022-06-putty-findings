@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "cloudjunky",
+  "address": "0x429882f4Ee6eFeF049ac273BF2abF89E6cB906b6",
+  "risk": "2",
+  "title": "Unchecked return value for WETH transfers, use safeTranfer",
+  "issueId": 136,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/136"
+}
