@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "AmitN",
+  "address": "0xe629013195bf847de6333929af0833ad5f2855d9",
+  "risk": "2",
+  "title": "counter offer can't be called with floorAssetTokenIds ",
+  "issueId": 172,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/172"
+}
