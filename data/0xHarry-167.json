@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "0xHarry",
+  "address": "0xd41d3af25c51ae58c58558d3bffa2241b11b31d5",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 167,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/167"
+}
