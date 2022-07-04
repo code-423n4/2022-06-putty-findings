@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "horsefacts",
+  "address": "0x79d31bfca5fda7a4f15b36763d2e44c99d811a6c",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 331,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/331"
+}
