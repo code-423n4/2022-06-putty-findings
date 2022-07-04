@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "xiaoming90",
+  "address": "0x536fbBaE179fd77FAe3E29b510f7B605bf45BC8f",
+  "risk": "3",
+  "title": "Option Cannot Be Exercised Due To Invalid ERC20/ERC721/FloorToken Within An Order",
+  "issueId": 295,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/295"
+}
