@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "0xsanson",
+  "address": "0x4df37cc3c48ec3eb689c8bf0d91249ce2506f73b",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 424,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/424"
+}
