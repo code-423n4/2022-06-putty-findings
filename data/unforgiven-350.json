@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "fund steal by crating a lot of bad long positions and then transferring NFT token of long position to all users and trick them(or by mistake) to click on exercise()",
+  "issueId": 350,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/350"
+}
