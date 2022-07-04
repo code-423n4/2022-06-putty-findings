@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "datapunk",
+  "address": "0x0083D59A271667f08Fe81121cd2034d99DeF37A6",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 419,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/419"
+}
