@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "Sneakyninja0129",
+  "address": "0x8a3e52f1d8f57030f996c66c44ea2cfd8179adf7",
+  "risk": "2",
+  "title": "Unchecked transfer",
+  "issueId": 196,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/196"
+}
