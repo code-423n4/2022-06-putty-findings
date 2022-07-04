@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "GalloDaSballo",
+  "address": "0x4666e94300429c6d3340449bc828e4218f360672",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 280,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/280"
+}
