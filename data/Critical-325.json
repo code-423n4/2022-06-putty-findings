@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "Critical",
+  "address": "0x07e6509914f956becec902265a6cf36f15a98e29",
+  "risk": "2",
+  "title": "Unconventional design of option expiration time design and lack of validation making it possible for the taker to buy a long position that can not be exercised",
+  "issueId": 325,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/325"
+}
