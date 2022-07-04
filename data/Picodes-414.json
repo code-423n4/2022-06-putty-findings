@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "Picodes",
+  "address": "0x9843c8a8263308a309bfc3c2d1c308126d8e754d",
+  "risk": "2",
+  "title": "`order.maker` can arbitrarily revoke its approval to cancel its signed orders.",
+  "issueId": 414,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/414"
+}
