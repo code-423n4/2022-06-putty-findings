@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "rfa",
+  "address": "0x95687c27dce4d413a91a0e1fd0478f4751da8730",
+  "risk": "2",
+  "title": "Possibility of fund (eth) lost",
+  "issueId": 215,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/215"
+}
