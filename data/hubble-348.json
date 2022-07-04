@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "hubble",
+  "address": "0xc343235Ec8143EAB788d706165D50082833FF137",
+  "risk": "2",
+  "title": "Use of Solidity version 0.8.13 which has two known issues applicable to PuttyV2",
+  "issueId": 348,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/348"
+}
