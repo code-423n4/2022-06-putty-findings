@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "3",
+  "title": "Zero strike call options can be systemically used to steal premium from the taker",
+  "issueId": 418,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/418"
+}
