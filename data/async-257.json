@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "async",
+  "address": "0x7841f2064bbaf90127ca0eed5b004020bf9ca819",
+  "risk": "2",
+  "title": "Zero fee orders are possible",
+  "issueId": 257,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/257"
+}
