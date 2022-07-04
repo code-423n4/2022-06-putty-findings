@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "BowTiedWardens",
+  "address": "0x644AEDa9E5797474B28A656d9e2016A927B0aE1B",
+  "risk": "3",
+  "title": "msg.value not handled in some paths of `fillOrder`",
+  "issueId": 341,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/341"
+}
