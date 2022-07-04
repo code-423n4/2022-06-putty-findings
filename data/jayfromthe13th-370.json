@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "jayfromthe13th",
+  "address": "0x47522595113c48db04ae640a9e499749b8414e88",
+  "risk": "2",
+  "title": "manipulation of given supply through mint functionality | There is an absence of checks for the mint functionality which can lead to undesirable effects. |",
+  "issueId": 370,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/370"
+}
