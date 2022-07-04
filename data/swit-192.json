@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "swit",
+  "address": "0x28bc92e7b7e77d348fd262fb8e29da129308fbd3",
+  "risk": "2",
+  "title": "Payable functions are not thoroughly checked. ETH can get stuck in the contract.",
+  "issueId": 192,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/192"
+}
