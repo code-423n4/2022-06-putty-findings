@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833d7dee997d7d347e2634c9cef",
+  "risk": "2",
+  "title": "Exact order expiration can't be set",
+  "issueId": 311,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/311"
+}
