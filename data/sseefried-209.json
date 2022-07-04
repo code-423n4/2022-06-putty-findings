@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "sseefried",
+  "address": "0x033e21b02373489ff2f7a2c2f1b109a1bc6158ad",
+  "risk": "2",
+  "title": "Short Put buyer can use ERC721 asset in multiple orders to receive more premiums",
+  "issueId": 209,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/209"
+}
