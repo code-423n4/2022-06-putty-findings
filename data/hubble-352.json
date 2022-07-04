@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "hubble",
+  "address": "0xc343235Ec8143EAB788d706165D50082833FF137",
+  "risk": "2",
+  "title": "The strike cover amount can be locked for very long time in the putty contract",
+  "issueId": 352,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/352"
+}
