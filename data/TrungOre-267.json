@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "TrungOre",
+  "address": "0x1A4f547AeACB962B67Ec2fa35b803DA4F5f9b9D0",
+  "risk": "2",
+  "title": "asset can be stucked in the contract if transfer 0 fee",
+  "issueId": 267,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/267"
+}
