@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "0xc0ffEE",
+  "address": "0x20Db7644Ed338c70b67783C2246D2d917DD4AA76",
+  "risk": "Q",
+  "title": "QA Report",
+  "issueId": 333,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/333"
+}
