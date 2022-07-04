@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "2",
+  "title": "Native funds sent over with an order are lost when not used",
+  "issueId": 388,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/388"
+}
