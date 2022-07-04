@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "Wayne",
+  "address": "0xfB767Bcde95F4a30231c31E9aC53cCAe62fe2b98",
+  "risk": "3",
+  "title": "Using SafeTransferLib as a transfer medium has a certain probability of causing problems",
+  "issueId": 323,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/323"
+}
