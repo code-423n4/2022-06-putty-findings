@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "sseefried",
+  "address": "0x033e21b02373489ff2f7a2c2f1b109a1bc6158ad",
+  "risk": "3",
+  "title": "ERC721 asset can be put into ERC20 field of order and is lost on `withdraw` after Exercised Long Put",
+  "issueId": 202,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/202"
+}
