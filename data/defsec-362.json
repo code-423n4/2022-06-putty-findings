@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "defsec",
+  "address": "0x38bce8c1ca5a061aa8e2b4750c18ba3efb27ced9",
+  "risk": "2",
+  "title": "Missing check If the order is already exercised",
+  "issueId": 362,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/362"
+}
