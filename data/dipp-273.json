@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "dipp",
+  "address": "0x675454ae78d25632fc26763fa9cb72a99cb0a36e",
+  "risk": "2",
+  "title": "User may lose funds if ```msg.value > 0``` and ```baseAsset != weth```",
+  "issueId": 273,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/273"
+}
