@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "Wayne",
+  "address": "0xfB767Bcde95F4a30231c31E9aC53cCAe62fe2b98",
+  "risk": "3",
+  "title": "Problems with the access control of the fillOrder() function",
+  "issueId": 318,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/318"
+}
