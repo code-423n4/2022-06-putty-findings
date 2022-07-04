@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "swit",
+  "address": "0x28bc92e7b7e77d348fd262fb8e29da129308fbd3",
+  "risk": "2",
+  "title": "Some orders can be exercised without paying fees. Fee collect logic is not consistent with specification.",
+  "issueId": 183,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/183"
+}
