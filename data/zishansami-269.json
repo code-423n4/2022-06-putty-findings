@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "zishansami",
+  "address": "0x0bcd81842b22eb005bf0a55e72c971464a8a2606",
+  "risk": "2",
+  "title": "Fee is being deducted when Put is expired and not when it is exercised.",
+  "issueId": 269,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/269"
+}
