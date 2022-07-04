@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "chatch",
+  "address": "0x8b62f1066ff78f2f585b561d4b0b68f0c3f9c9d3",
+  "risk": "3",
+  "title": "Maker could avoid premium on longs and strike payment on short puts by creating an order with a fake baseAsset token",
+  "issueId": 406,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/406"
+}
