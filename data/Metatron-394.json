@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "Metatron",
+  "address": "0xe75781091428a2423367C704d2890a47c52Fe1ce",
+  "risk": "2",
+  "title": "Cannot create short call floorToken option",
+  "issueId": 394,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/394"
+}
