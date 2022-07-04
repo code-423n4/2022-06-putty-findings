@@ -1,0 +1,9 @@
+{
+  "contest": 142,
+  "handle": "auditor0517",
+  "address": "0x0fcf87f1ca8ea435f2517880a33329005c464127",
+  "risk": "2",
+  "title": "Possible lost msg.value",
+  "issueId": 205,
+  "issueUrl": "https://github.com/code-423n4/2022-06-putty-findings/issues/205"
+}
